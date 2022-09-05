@@ -1,1 +1,1 @@
-# ml-zoomcamp
+# Repo for studying [ml-zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/cohorts/2022)
